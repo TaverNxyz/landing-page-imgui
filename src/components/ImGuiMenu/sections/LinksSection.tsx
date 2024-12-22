@@ -21,7 +21,7 @@ export const LinksSection = () => (
   <div className="p-4">
     <h3 className="text-gray-400 text-sm mb-4">External Links</h3>
     <div className="space-y-2">
-      <LinkButton href="https://plentifulpower.xyz">Plentiful Power</LinkButton>
+      <LinkButton href="https://home.plentifulpower.xyz">See What We're Offering!</LinkButton>
     </div>
   </div>
 );
